@@ -1,2 +1,6 @@
 This is my test file.
+<<<<<<< HEAD
 
+=======
+Oye.
+>>>>>>> 70e5ff19a726bad00d9297626ebfc6846b770b47
